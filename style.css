@@ -1,0 +1,26 @@
+body{
+	background-color: #cc52ff;
+	
+}
+#canvas{
+	width: 500px;
+	height: 400px;
+	margin-left:17px;
+	position: relative;
+	padding-bottom:30px;
+}
+#container{
+	background-color:#cc8fff;
+	width:40%;
+	margin: auto;
+	border: 1px solid #cc52ff;
+	border-radius:15px;
+	box-shadow: 5px 5px 8px blue, 10px 10px 8px red, 15px 15px 8px green;
+}
+#container h2{
+	 text-align:center;
+	font-size:45px;
+	font-weight:600;
+	color:Purple;
+	padding-top:5px;	
+}
